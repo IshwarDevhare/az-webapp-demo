@@ -1,0 +1,7 @@
+E:\Learn\AZ-204\demos\06-webapps\az-webapp-demo\bin\Release\net8.0\publish\mmdemo0101.exe
+E:\Learn\AZ-204\demos\06-webapps\az-webapp-demo\bin\Release\net8.0\publish\appsettings.Development.json
+E:\Learn\AZ-204\demos\06-webapps\az-webapp-demo\bin\Release\net8.0\publish\appsettings.json
+E:\Learn\AZ-204\demos\06-webapps\az-webapp-demo\bin\Release\net8.0\publish\mmdemo0101.dll
+E:\Learn\AZ-204\demos\06-webapps\az-webapp-demo\bin\Release\net8.0\publish\mmdemo0101.deps.json
+E:\Learn\AZ-204\demos\06-webapps\az-webapp-demo\bin\Release\net8.0\publish\mmdemo0101.runtimeconfig.json
+E:\Learn\AZ-204\demos\06-webapps\az-webapp-demo\bin\Release\net8.0\publish\mmdemo0101.pdb
